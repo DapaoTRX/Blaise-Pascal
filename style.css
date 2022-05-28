@@ -1,0 +1,29 @@
+body {
+    font-family: cursive;
+}
+
+.gambar {
+    width: 198px;
+    height: 255px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+    padding: 0 10px 0 0;
+    float: left;
+}
+
+.judul {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.container {
+    margin: 150px auto;
+    padding: 8px;
+    width: 50%;
+    padding-bottom: 20%;
+}
+
+.text {
+    text-align: justify;
+}
